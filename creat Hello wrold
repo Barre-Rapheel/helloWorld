@@ -1,1 +1,1 @@
-echo "Hello, wrold" > helloWorld.txt
+echo "Hello, wrold" > hello.txt
