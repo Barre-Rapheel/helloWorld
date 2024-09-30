@@ -1,3 +1,1 @@
 echo "Hello, wrold" > helloWorld.txt
-The echo command is used to display text in the console.
-The > symbol is used to store the result of a previous command in a file, specifying next. You can use it with anything you want, not only echo.
